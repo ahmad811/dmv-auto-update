@@ -1,9 +1,9 @@
-version: 0.3.3
+version: 0.8.0
 files:
-  - url: DigitalManufacturingViewer Setup 0.3.3.exe
-    sha512: JPQeM2RejVZBR1msbmT9wmupIjKqf+EmytcjzK4fRdlBVExpRiB4b1sQ6MAYfKxoHjvlDFwv4umrnWN7jaTh6Q==
-    size: 36031158
-path: DigitalManufacturingViewer Setup 0.3.3.exe
-sha512: JPQeM2RejVZBR1msbmT9wmupIjKqf+EmytcjzK4fRdlBVExpRiB4b1sQ6MAYfKxoHjvlDFwv4umrnWN7jaTh6Q==
-sha2: ee9edac34b42a994cf4b0c981d831fa689a1718396de724cec99ecf90ab363a8
-releaseDate: '2018-03-20T11:38:12.730Z'
+  - url: DigitalManufacturingViewer Setup 0.8.0.exe
+    sha512: 6eG1uw9iBYDOp9ehe5MrNwmPM/3Z+/ZVGYhU9vykPRFnHXlB0fy5YUpoe9Wh5Phm2azK36c+PZIKhwL1inc9cQ==
+    size: 34350611
+path: DigitalManufacturingViewer Setup 0.8.0.exe
+sha512: 6eG1uw9iBYDOp9ehe5MrNwmPM/3Z+/ZVGYhU9vykPRFnHXlB0fy5YUpoe9Wh5Phm2azK36c+PZIKhwL1inc9cQ==
+sha2: 5d0aa85a7354c31a91586ac55cc44ff55bd9e742f69bc110b6e6fa83cca7110d
+releaseDate: '2018-03-26T08:33:13.870Z'
